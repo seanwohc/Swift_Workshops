@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='0 - Intro'/>
+        <page name='1 - Our First Wrapper'/>
+        <page name='2 – A Second Example'/>
+        <page name='3 - Wrappers as Debugging Tools'/>
+        <page name='4 - API Wrappers'/>
+        <page name='5 - Implementing an Environment'/>
+        <page name='6 - Towards Function Wrappers'/>
+        <page name='7 - A Glimpse of Future APIs?'/>
+        <page name='8 - Recap + Links'/>
+    </pages>
+</playground>
